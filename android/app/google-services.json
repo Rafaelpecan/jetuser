@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "516752307458",
+    "project_id": "jetrider-e1e21",
+    "storage_bucket": "jetrider-e1e21.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516752307458:android:3bb97ecf9f8e0e12cdfe1b",
+        "android_client_info": {
+          "package_name": "com.example.jetrider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIyD3A22hTWEEIZWwa98t17j10FlUmLS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516752307458:android:fd8c725085957d86cdfe1b",
+        "android_client_info": {
+          "package_name": "com.example.jetrideruser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIyD3A22hTWEEIZWwa98t17j10FlUmLS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
